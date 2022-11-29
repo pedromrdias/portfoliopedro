@@ -2,6 +2,8 @@ import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import HeaderSocial from './HeaderSocials'
+import CTA from './CTA'
+import HeaderSocial from './HeaderSocials'
 
 const Header = () => {
   return (
